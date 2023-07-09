@@ -1,3 +1,8 @@
+node_modules/
+.vscode
+.intermediate
+.env
+.env.local
 # Logs
 logs
 *.log
